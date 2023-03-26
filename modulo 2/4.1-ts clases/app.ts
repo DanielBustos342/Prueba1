@@ -13,3 +13,6 @@ class Persona {
         return(añoActual - this.añoNac);
     }
 }
+
+
+
